@@ -1,4 +1,5 @@
 # auto-configuration
-# https://github.com/darvinmonteras-google
+# GoogleEnginePH
 # www.google.com
-# www.facebook.com
+# www.facebook.com/darvinmonterasvlog
+# https://g.dev/GooglePhilippines
